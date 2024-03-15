@@ -7,3 +7,7 @@ module.exports = defineConfig({
     },
   },
 });
+
+//Agrego Cypress
+
+// require('@cypress/xpath');
